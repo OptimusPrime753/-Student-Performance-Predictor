@@ -1,6 +1,6 @@
 # 🎓 Student Performance Predictor (Streamlit + Machine Learning)
 
-This Streamlit web app predicts a student's academic performance (Pass/Fail) based on their study hours, attendance, health, and extracurricular activity levels.  
+This Streamlit web app predicts a student's academic performance (Low/Middle/High) based on their study hours, attendance, health, and extracurricular activity levels.  
 It demonstrates how **machine learning** can be integrated into an interactive **Streamlit UI** for real-time prediction and data visualization.
 
 ---
